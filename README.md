@@ -24,7 +24,7 @@ docker compose up -d
 
 ### En el Navegador
 ```
-Ver en "http://localhost:3300"
+Ver en "http://localhost:3030"
 ```
 Usuario: 
 ```
